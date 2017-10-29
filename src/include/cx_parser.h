@@ -2,7 +2,7 @@
 
 #include <cx_optional.h>
 #include <cx_pair.h>
-
+#include <cx_algorithm.h>
 #include <cstddef>
 #include <optional>
 #include <string_view>
