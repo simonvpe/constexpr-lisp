@@ -68,4 +68,4 @@ if(CMAKE_CXX_COMPILER_ID MATCHES "Clang")
 elseif(CMAKE_COMPILER_IS_GNUCXX)
 endif()
 
-add_subdirectory (src/test)
+add_subdirectory (test)
